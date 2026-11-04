@@ -32,7 +32,7 @@ jobs:
             convert img/capitolio.jpg -resize 1200x630^ -gravity center -extent 1200x630 \
               \( -size 1200x630 gradient:'rgba(11,18,32,0.15)-rgba(11,18,32,0.92)' \) -compose over -composite \
               -font DejaVu-Sans-Bold -fill '#ff3b30' -pointsize 30 -gravity northwest -annotate +60+60 'LUPA CIUDADANA · VIBRAS POSITIVAS HM' \
-              -fill white -pointsize 92 -gravity southwest -annotate +60+190 'PARÁSITOS DEL ESTADO' \
+              -fill white -pointsize 76 -gravity southwest -annotate +60+190 'PARÁSITOS DEL ESTADO' \
               -fill '#ffd23f' -pointsize 40 -annotate +60+120 '$1.041 millones en un año para un solo cargo' \
               -fill white -pointsize 30 -annotate +60+60 'parasitos-del-estado.netlify.app' \
               -quality 85 img/og.jpg || echo "No se pudo armar og.jpg"

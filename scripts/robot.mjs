@@ -33,8 +33,10 @@ async function noticias() {
       }
     } catch (e) { console.error('Falló', q, e.message); }
   }
+  const TEMA = /sa[uú]l cruz|cruz bonilla|senado|congreso|funcionari|servidores p[uú]blicos|salari|sueldo|privilegi|prima|n[oó]mina|observatorio fiscal|gasto de personal/i;
+  const FUERA = /costa rica|m[eé]xico|argentin|chile|per[uú]\b|uruguay|ecuador|venezuela|espa[ñn]a|fifa|infantino|bolivia|paraguay|panam[aá]|guatemala|honduras|estados unidos/i;
   const seen = new Map();
-  for (const n of all) { const k = n.title.toLowerCase().slice(0, 70); if (n.title && !seen.has(k)) seen.set(k, n); }
+  for (const n of all.filter(n => TEMA.test(n.title) && !FUERA.test(n.title + ' ' + n.source))) { const k = n.title.toLowerCase().slice(0, 70); if (n.title && !seen.has(k)) seen.set(k, n); }
   return [...seen.values()].sort((a, b) => Date.parse(b.date) - Date.parse(a.date)).slice(0, 40);
 }
 
