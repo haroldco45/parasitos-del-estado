@@ -1,11 +1,233 @@
 {
- "updated": "2026-11-04T01:15:00.000Z",
+ "updated": "2026-11-04T01:38:55.394Z",
  "items": [
-  {"title": "Consejo de Estado tumba convocatoria para elegir funcionarios del Senado", "link": "https://elcronista.co/actualidad/consejo-de-estado-tumba-convocatoria-para-elegir-funcionarios-del-senado", "source": "El Cronista", "date": "Tue, 20 Oct 2026 12:00:00 GMT"},
-  {"title": "Tolimense figura entre los funcionarios mejor remunerados del país", "link": "https://laotraverdad.co/tolimense-figura-entre-los-funcionarios-mejor-remunerados-del-pais/", "source": "La Otra Verdad", "date": "Sat, 25 Jul 2026 12:00:00 GMT"},
-  {"title": "El poder invisible del subsecretario", "link": "https://proclamadelpacifico.com/el-poder-invisible-del-subsecretario/", "source": "Proclama del Pacífico", "date": "Thu, 23 Jul 2026 17:58:00 GMT"},
-  {"title": "Quién es Saúl Cruz, el funcionario que tiene el salario más alto de Colombia", "link": "https://www.infobae.com/colombia/2026/07/21/el-senado-eligio-nuevamente-a-saul-cruz-como-su-subsecretario-general-lleva-mas-de-20-anos-en-el-cargo-y-tiene-el-salario-mas-alto-del-pais/", "source": "Infobae", "date": "Tue, 21 Jul 2026 12:00:00 GMT"},
-  {"title": "24 años y contando: Saúl Cruz Bonilla seguirá como subsecretario del Senado", "link": "https://elcronista.co/destacadas/24-anos-y-contando-saul-cruz-bonilla-seguira-como-subsecretario-del-senado", "source": "El Cronista", "date": "Tue, 21 Jul 2026 10:00:00 GMT"},
-  {"title": "Gobierno Petro registra el mayor alza en gasto de personal de los últimos 14 años", "link": "https://www.elcolombiano.com/negocios/mayor-gasto-de-personal-gobierno-petro-EO36830765", "source": "El Colombiano", "date": "Fri, 22 May 2026 12:00:00 GMT"}
+  {
+   "title": "Congreso rechaza propuesta de Raíces para reducir salario de diputados: mantienen ingresos de Q66 mil",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Lbkk2YmFGdlhKQlZ6bEVMX3NUUDg0UEJnRF9DOExTd01EWEFWdlowQnF4bzI4QzJHWDhHaU1tTHVBcTJFeVJYbTZIN2ROZ1dqbmFPVkFycWxnY0plbFZaUjZUOGJWR3ZWc2ZMSFVCNnEzazRnMnNr?oc=5",
+   "source": "CRN Noticias",
+   "date": "Tue, 03 Nov 2026 22:56:04 GMT"
+  },
+  {
+   "title": "Renuncia viceministro de Hacienda en Costa Rica: Gobierno de Laura Fernández acumula diez salidas de altos funcionarios en menos de seis meses",
+   "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQRFlOUGd4NVZpTEg4eGNkYnZVejlJSHJUOGpCYUxtUkxjYzVSVWFkcVFyeHhfS3RJREEyZ2pxdU0xcndud0VPVzdFX0tTX3VMbDk1MW51RVJENHNmenhLaTlOaDd0dVpCaXQzamRVajRIdGlGZ21ocXN6XzRwVFl2WnBjU3VBRHNmMDlQV2pGYVBNSHBQeVozR2I5Y2VCTDB2d2VqSjRfU0NhTm1JVmhhTGdQM1NwWmE5MllnM0p0WGtQZkw0ZEtDNndSLVk3QmVVdThtdnBrTGpGQU04MWNCQnM2QVJnQkszZzNNNTBZalkxSlRwMnNwQ0JCNDBzRlEyTU1kLXNtZ3B2ZXgxN2ZiZFA0LXdSMk1BOGpaZ19QUVBqdTNfR3ppV0xCQXZfMUFBNUHSAbICQVVfeXFMUERZTlBneDVWaUxIOHhjZGJ2VXo5SUhyVDhqQmFMbVJMY2M1UlVhZHFRcnh4X0t0SURBMmdqcXVNMXJ3bndFT1c3RV9LU191TGw5NTFudUVSRDRzZnp4S2k5Tmg3dHVaQml0M2pkVWo0SHRpRmdtaHFzel80cFRZdlpwY1N1QURzZjA5UFdqRmFQTUhwUHlaM0diOWNlQkwwdndlako0X1NDYU5tSVZoYUxnUDNTcFphOTJZZzNKdFhrUGZMNGRLQzZ3Ui1ZN0JlVXU4bXZwa0xqRkFNODFjQkJzNkFSZ0JLM2czTTUwWWpZMUpUcDJzcENCQjQwc0ZRMk1NZC1zbWdwdmV4MTdmYmRQNC13UjJNQThqWmdfUFFQanUzX0d6aVdMQkF2XzFBQTVB?oc=5",
+   "source": "Infobae",
+   "date": "Tue, 03 Nov 2026 00:09:00 GMT"
+  },
+  {
+   "title": "La FIFA pagó millones en impuestos para Gianni Infantino y no lo hizo público",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTzFab1RLeGU4Sng0LXpFS3E5eGdSY055b2FyNWdocTBmeFkxQlA4SkhGVG5yRE44ellZUk5GYkNPTHBZN1p0aGVWbGdsNkVqRzg0elFhd3h4LU1ESC01VXpFd2pHYTJuY0pjUVktVmZOQ2FCMzMxVjY4QjlZWmFJTlctQnJ5X01YN2dUMkJVTHlWcDJFRklnZEVNSUFqbjRVZ002NDBCMzl5VkRGYTV0ZEU0eU40dENsRjZ2OXFObGR5RzNzaGIwd19DNjR5c2s4V2FYbkRyMTdqci1oVjk1WGM5LWtsRGhvWTZ6TUhFRUQxZ9IB8gFBVV95cUxNTzFab1RLeGU4Sng0LXpFS3E5eGdSY055b2FyNWdocTBmeFkxQlA4SkhGVG5yRE44ellZUk5GYkNPTHBZN1p0aGVWbGdsNkVqRzg0elFhd3h4LU1ESC01VXpFd2pHYTJuY0pjUVktVmZOQ2FCMzMxVjY4QjlZWmFJTlctQnJ5X01YN2dUMkJVTHlWcDJFRklnZEVNSUFqbjRVZ002NDBCMzl5VkRGYTV0ZEU0eU40dENsRjZ2OXFObGR5RzNzaGIwd19DNjR5c2s4V2FYbkRyMTdqci1oVjk1WGM5LWtsRGhvWTZ6TUhFRUQxZw?oc=5",
+   "source": "Infobae",
+   "date": "Mon, 02 Nov 2026 20:00:00 GMT"
+  },
+  {
+   "title": "Gobierno de Colombia defiende ley de rescate fiscal y advierte sobre riesgo de default",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM0FvUk9mZlNnRlBfUzlWbm1UcVV3N3IwR2h5QnJ5QmVSVDdldXZMcW1nUXRSRGlfTWdEYm9EX3ljNWgwS0k4cDVlX1JhVzZvaktkUEJqbGg1TEdTTVNyelNoRE1udzdYVmY2X1hoX2ktNXhQSXFVOGhXX0tfZy04X3BGWTJNMS1hQWhyMEF2Y0M5Sk9YUnN1bHN0Z2trSS1zNWpMRVc4bi1xMDFDZENpV1ZLamdycF94Vl9z?oc=5",
+   "source": "CRprensa.com",
+   "date": "Sun, 01 Nov 2026 14:17:18 GMT"
+  },
+  {
+   "title": "Restrepo y el ministro de Hacienda defienden ley de rescate fiscal",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTlJvdjVuV3ljVHRrZDAyb0FWS1NaRk1CTmFYZG80RjVFX05zVlNzeVdkdTlwU1BfUHRyZ240dXhvcXowc3lYTGw0WjRqLUNfV1ZnalRiOFRPUEtOblBBMDhISVNieXZwOW9JQ3BWd085SXdFZDdLY2JpYUJsc1pyY2VxSGpVa3hBaDN2bThYa1FwcGlnY3ZPeldOOA?oc=5",
+   "source": "Uruguay Al Día",
+   "date": "Sun, 01 Nov 2026 14:07:42 GMT"
+  },
+  {
+   "title": "Vicepresidente José Manuel Restrepo y el ministro de Hacienda defendieron la ley de rescate fiscal y advirtieron qué pasaría si no avanza en el Congreso: “Estamos dispuestos”",
+   "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQbGwxSWZVM3BfT05CQWxmYjVnR3FvZm5kaFFMUkFIakQ4WkpMMFl2U3JDWDAyM3ZtYVEtWFdtRlhBMHphdXNSZlY1bi1kWlFiMWdOb29haS11MUVHMWxnTkFmaVB3MVlIVFJYdHlnYzY4TGxxTFZxcjQ1b2p4Y2Y1U2lVenl3R2RTRko5ZjdSaTVpLThVWHpqaWs3QmtfS29wYnI4UG5NdF9ycXFEUkxRQW9EV0YyQXpwck83Y2ZtYjJmMXdMWGphODVqYzB2UkZkenF6ek8yTU5KM09oQ29Dc0tKVzJsd1Z3Z2V3bGpsZU0xRTFzZ2VZMWhIVXZZenR0QlZZXzk3QUxqRHpQWVN2bHM2cnFrMG9lV2pCZWlwa1ZWcy1rSkllYlkzX3NERlY2Ml9jRjFCTEdnVEFK0gHXAkFVX3lxTFB4ZHBCTmt1alZPZVNJTHl0aU5Ka2l3U0RKU3ROazdwV2w4Nk1YR245R09QV0xRRkJpaTktWmlZcGpZTzgxQmg1LU1HUU15X0lVV0FnQ3gzbmxiN29oOUFqN2RzMi0xelJzTUVmWHZVbnAxQVdzWFMwclBpdVdTcWVZenhscWdybklhYmNRT1FSN0J5cGEyQzB1VFhMQjk4MnBSMnhDck43MnBSU0lIUXUxMUtpeVR2WEtGYlN3X0RXLVE0T3lXQmNrMXY2YWZOZXhEcGZwRjlWT1IzOUdIOS1LbVg3V0pmM1JtdnowT2otZFlJVElma1hfMEdnbUFUOXdVMzFWWUZTMHFhMTF4ZUJIWjZEeW45QjZDbkljRTVCNlRqSWJGaWxuTlpvdnlrV1F3WU9tMWpCMTQyb0VQV0ZNTWF2Uk1TRUExSW5nanR0S0RIS0VQUHM?oc=5",
+   "source": "Infobae",
+   "date": "Sun, 01 Nov 2026 13:56:05 GMT"
+  },
+  {
+   "title": "Salarios de hasta $80 millones en el Estado: crece el debate por los privilegios de la burocracia",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTjM1cjVXOWZPcWFnWnkxeTJickt0SkM5VTl4UXM4WmtLamhkd2lyZXRiVTluUGJBb1pubXQxS1RuSEUzUV9oc3l4aWN6UWl0YWVZdVU3azltSFo5R2lhSThNQl82dExZNktUbXNEY05uNTczMm9MLVdQVWV0OEUyZGg1dHd4bFpuR08xUzVCTXRhVU5USXFVLTNHak9WY0RqWEY1bGJuUnhnZ1RPMnRhYlJnMzlGakZmMFFVVEowZmJPa3BxRHRBT1ZkaFN6ckVNSXc?oc=5",
+   "source": "Diario La Libertad",
+   "date": "Fri, 30 Oct 2026 13:27:08 GMT"
+  },
+  {
+   "title": "Giro en el pago de la salud: Presidente De La Espriella plantea remezón para trabajadores con estos salarios en las empresas",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPOFpNQlVYcWt6eW91QmctSldHeWQ0b3l4QV9PWHdjMjNDNVhKTzVQT2h6d2VLNHpVNlhNX1Rqc2tOVHh2dGlwREdHaEpqME13TXZ3YzNpSmZscWU5a2tMNEFCY1pmOXowWDc0czB0WnpwbHNna2NjSjZaa1dwTFBHRzlxVXczSUVZZmgwa0FrVHM2MExHLTBLNWRueGFrNG03bjJ4Y0RCOGt2RGo3TnJJZ2gxZFo4aXhmdTJLQ0F2c0NScDNya0dsRm5OWDJHdlE3WkEzRGhlVHl0YVBveVRDR3YtVFEwMlZPOC1TN0hGVldNa0owT2I1VEx4aHFfOG9NVnE0?oc=5",
+   "source": "RED+ Noticias",
+   "date": "Fri, 30 Oct 2026 13:16:13 GMT"
+  },
+  {
+   "title": "Abogado Camilo Enciso cuestionó a la defensa del expresidente Gustavo Petro en el polémico caso de los ‘sexocontratos′: “Ha sido patética”",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWEI4c3NxYkh1cHl6MTFOemxGRlcwbHFwQ3owVU45Ry00VElBUzdHa1YxbnBEeTBncHkwUnFxS2tiX0ZQNnZoRV9yc1JHc3NvSE1KN1FPU01EaDJuLUk2SlBOcXBUWG5haFBrT1BKTkZ6dlo4LXVFaGFrR3d4TnE0R2QxN011eWdZejZYekNTMW5qbERSWTA2anlPdHdaUlhkNFlpakV4OU9ITFk1TWFMbmxBOTRNUThaSDUzSjAza1dDWTJuUGdsOVdNWHJQNUVWcUFQLVdaOU1TM053cTJzeTliSXYzcWM1YlZUVWRYZ0JCWXZtREtYMS1IaE1fdDlscko2XzJqQdIBogJBVV95cUxPWU91WEJCWDk5VE9mc2RXd19Ja1c3ZUc3ZE93SWJsenNWUlJYeXFrZ3NfOHpzc2RYMU12Y3R5cFF4dEVhWXRpNHFmTExsU1FyRTRGbHlnT0FrZ3hDMUtmaEJaeTRnRHNVUDVzenJaN2JYVHl5M0ZCZmF4RzB2Y0xWNjk5TmhoODFNSndvXzlqczhiWjJlV1o5XzBPbWdfdC1QcmwyUVJlMmdLTU55ak5FeGo5dkwxZ25hRFl5UXV6MWpCQkMwTGFtUTdJbVJuUWpwQ0VzUnJPVXBwYmx4TWg1QUZPZnYxNVRqaGtRM3FJVUJNOVNjc2tUVXd2UjFfWEozdnJ2cEduN2hrN01VVXdzX2NoNVhqVFNGOVJzVTBMRWxBUQ?oc=5",
+   "source": "Infobae",
+   "date": "Thu, 29 Oct 2026 13:15:00 GMT"
+  },
+  {
+   "title": "La entidad solicitó verificar con urgencia el alcance de las intimidaciones denunciadas por el procurador general, que también involucran a su familia y equipo de trabajo. Los senadores Norma Hurtado y Juan Carlos Garcés reclamaron avances rápidos en l",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVy1tajExdWhDaUYtTHpaLWFuakxxYzZuNlQ1Y2xUaDNYbl9FUXRERDVwdGdwMDFtbE9udlNaNVh1Rk5mQ1E1Z0xQVkE2VlpjYkxJUHg5aU5OOWEyMGFwLWM5a1U0czJqQVJvSDY4QWpvZlQ5X2RFcFRUTUdGQ0UwRUk2aUpqSC1JeFJkcm0zTGMzcUdYTU8wdVcxS2VFcXFsbl9pQ3pvbXBjMVV6QVFfTDBIaFZCUWFNM0xENnB4Q05IcFRsQnFHSnJydlhyS3VLUzN1ZkU2VXRnMEVEQkc0dnRWM0I?oc=5",
+   "source": "Facebook",
+   "date": "Thu, 29 Oct 2026 04:19:50 GMT"
+  },
+  {
+   "title": "El representante Alfredo Mondragón aseguró que Carolina Restrepo habría recibido $48 millones de un aportante imputado y afirmó que el caso podría impedirle ejercer funciones públicas",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOV18ydExGcjZtM0w0NEhKaFBXMDRINXVMZmU3czhSRVgzQUhDNjBvSGlONHZ4RTNEQV9RVnFsS1pZcEh1RVJVS3ZIWk5oNS1lRjNablJkWVcwWXdDSFpCSV9namlvQmo3MjltOEtpdTJOMkNIaVRndVo4eDZnSlVNWm5oeUNFQzc1cEFLUnhtVW5sbktPRkVPZ1ZRZzNHTFU2dEZNVEF3S0RCMXU1ejdwNXFjcW9QYjJfYkt0Q2V3RkUwZ1FLakhHekJEVmlXejAyNVloQUh5TjV4WVRpemZwMWd4T3JGUk9KME8zVjB2eDBJdw?oc=5",
+   "source": "Facebook",
+   "date": "Sun, 25 Oct 2026 19:24:11 GMT"
+  },
+  {
+   "title": "Congreso deberá adelantar nuevamente elección de secretarios",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmJpSm1DWmZrUC1qUnpIeTBLelVoeFdQX0ZscHM3SlgtVTFMdkNFUFQ5dDNUUEN5WkZiT01PNnB2ekNqeERpR250a0NNOEpGWDY4VFd1NUgyQ25CYmxMYTlGNUg5anhKemk2RXVmX2VZSUlsSmQwZGU4TTVhbUZfN1NmUFloRUZEM0xldk5SdmQxaGhMOVJjcGNIV1RyeEhzYlI4?oc=5",
+   "source": "El Nuevo Siglo",
+   "date": "Wed, 21 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Consejo de Estado tumba convocatoria para elegir funcionarios del Senado",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUXloZEIzc3NMUjFGTFFTTXZnenp3VzYwYXBJbUxCeHlOc2U4YzFNSmc2ZE10UXpNeU82YWRrRzdLR2NDX3FhdVVOVGxDdTktWFZleEw0N2p0M2wwN2xPR090c1EwUXNXNnFmN19YdE9UNENCZldwa0FPaGJMamFINWdTcUF1Z2VpZkQ2N0ZHTWxmRVRjcU5yYVc5Y0JjdDJlNm0tRC00UFE?oc=5",
+   "source": "El Cronista",
+   "date": "Tue, 20 Oct 2026 20:40:35 GMT"
+  },
+  {
+   "title": "La casta eran los laburantes de a pie: con el presidemente Milei, el transporte aumentó hasta 2700 por ciento",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQXNvQ0RzZXpweTQwWktrTjZfWkwzaTRDeVBscHlaa3VGbUY0b3hpVXZLT3ZJb3VSRFROSnN4UjVFYmVFUkZkUEhNazJ1SnJ5Vk9JcjNfTXp5b3lfWVR0WEwxWDJENGJXcDllM1AzR3Z4Q2VYQ094ZDBVb3dnem43NUxHWG05NkNaYXFHZlhWSXhGeHZBNVBWek5lYWVLRE0zWkszaFRfTDYzamVKN2puUWM1R2tPYUlaQ25KcGVRN0JYOTdVN255WlVVVnB1Tnk4MDFVblFTMXA2UkgwWmRxcVdXVVlPM2s0Z1Z2eHo0ZEZhYkEydUY2NC13RHNPU0VIZU93ag?oc=5",
+   "source": "Agencia NOVA",
+   "date": "Thu, 15 Oct 2026 11:32:49 GMT"
+  },
+  {
+   "title": "Beneficios de expresidentes bajo debate: ¿Cuáles son los privilegios que mantienen Boluarte, Sagasti y Merino?",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQmdOdVk2X05mM1ZTRGNnYTJrdVphWnRQLWVzTDJnT3B4Y3doRTlmZkh6NXFWT003cmk0bC04QkhkbEJSNTUwcDJoTVJNbF9oT29wa0dtN2trd2FjdGxIaUgtRUJaVWlSNDJiZGh5RkZ1MWZ4U0doWHd1cXpXdFQ3LThDSHJVbXBiLXFKX2ljN2dsN2NReEc3cXRqS1k0bl9tTVUyek4zcVZpdUgtZVNGRldocDFsbXZGY2Z0WjJhZlcycUF2ay1PSi1CSU9FVXJ6Nms3OG9Dekh2QUY5VS1z0gH6AUFVX3lxTE9KbThOZVpBcjk4ZEdhOVl0SW4waUw4elRDTlB3Z3ZnMHQ5RVlua3UzSUY2V0FxZGdJbGIxMXJCY05raGw3c3pGTEh5Zjh2eVdtdEs5dkNlb2U4SndGbzJ6TVJ0YlZQTWVqMTVZUXVJYmJ3YVpEaTk2RUhIX0pZbjl6UFZRVjh5Y0FZMXdFUXFCalY3OExpRmVyTk9ybXIxV3puZHplckl1WFZPZDMxQ2E1TmQyWWIzaGY5QnZMS3MwOXJzdjE3U0QxbURXYUdDUDVoU3hPSC1wd1NqNl84YlNJNkE0TUVXdl9paEdBdzllbUxTSjhDZmY4b0E?oc=5",
+   "source": "Infobae",
+   "date": "Sat, 10 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "¿Cuánto cobra un diputado en España y cuál es el sueldo por tener un escaño en el Congreso de los Diputados?",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYV80OGhWU1JxVU5yMGJYQTFidlVobF9sZEREeHQ1WWRlMEs3SXFOSm5BNEVxS3VvWEJRRllua0RfaFo1OTR4VHo0SzdRdG9Vb0pURzB2X3UyTHhNYUR3ZlZqZzh0VzZPMVFkalZBV1RnRVl6VUdheTRhOGJKX29wWF9uQ0RTNjJpTXZudjNjbkFFRHJ3S2JMdFpSeXp4S3dsblBJNi1zX3FNVEgtd2JjSm1mdFpHcUNGSzJkLUdVb2xvbEd0b19DX09KTVA4bjdLekJValNuT1VfalVIT1FwamhYZ3I4UW_SAfsBQVVfeXFMTUhROVJXS0xVWG9MS21GR3BzcTUwQ19jQlNCSUJvLXdXbWZxWWtvdEhkazV1NDh5MUowbTBRRDU5YWRCcHZBQ2JqdFB4RW9haHRydjJQUFJVcGlFMG9LUDM1NTZVLVhiTGJpTkJ1dWIyNUdxQlExRHhGSDlxQjMwRU1KM0M1eW0ySTZGUE04ODRUcGRocGVnUzhGRFBwOXRoZ2NBSWV6bWZsdXJTVmNtVnI1MmhIaVZsZWpUbmRxTjFIdmJ0R2l6R2JKcDQ2ZlBDcmhEVDl6UThEbTlJLU5RQjg3VEhkRGs4c0NEZk40RXU2aUtKdzl0bGZSRnM?oc=5",
+   "source": "Diario AS",
+   "date": "Thu, 08 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "La Embajada de EE. UU. abre vacantes en Colombia con salarios de hasta $141,9 millones al año",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMW9uaktjbVJtMEFfU0IteUtXZWZVbENmdlVxM1pNcWtweGFqZ1h2aHN4VHFUT2EyVEc0LWgzajgzb3Nsb3NYSGNVTGNQTVAtVUw4SlVKM1RiRUs1YmlxWElZa0NId0RPVFJPSnFpdmVadTRPNkNXM1NGVFpFZjV3OG5WVE1fNmhRSFE?oc=5",
+   "source": "ABC Economía",
+   "date": "Wed, 07 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Embajada del Reino Unido busca trabajadores en Colombia: anuncia convocatoria de empleo con salarios de hasta $ 16 millones",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPa3Btcy1CRnVobkE2d3I4TDktLXE5am1TTFRBNk12d0NVblFDcFl6VFN3RkpIeEg3dkdqOHN6akVFQWNYd0xSamdUS0ExSnRDZW9BTi01MmY0Q2hVZzdIbDVxWnZPc2x1TUZpb1ptSjhnOWNVN21MVnFPYUR4VHJ2V3lDZXRfNDkzOVBQTmlwYVQ4ZUg3b1paSmZtSkVtSTd4R1NvOWlLSzBoQzlxOUFua2xGaTUzNjJPaFlUd2FhRWliS1ZYRTFOZ05QS3FrUEhodXYwNVI3bC1IY3ZISENpOW1zNERKbG9nTXV2ZGM5bUdZdW03c2ZRVzBudzNzY2dm?oc=5",
+   "source": "RED+ Noticias",
+   "date": "Tue, 06 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Sheinbaum pide a Banxico revisar pensiones de exgobernadores y altos funcionarios",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0taU13QlFYY0VtVTk1cjRWZG1fbjRCaGxVRjRDUDYzZUpBaS1oY1g2NjNfTGJtTTQwZEVSUEp2cktNX2t3SldhZTJNLVRjMWRuY0hjMm1XSmlGSGxkeGc?oc=5",
+   "source": "https://www.elexpres.com/",
+   "date": "Tue, 06 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Subsidio al diésel cuesta $9,5 billones al país y aumenta presión sobre las finanzas públicas",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcjVDZTFBR0k4Ri1USTZ2ODR2YTVRcnhjM09kZkZ3Zlg4bGZ4eWg0dXJOZjBxRWpLTFg1V3M2SldKYXNQTXlYdldNUElWdzBqMUlqQkRiSGxNU2NIaW9tZDRMd0VYQzh0UmNwaEx4QzlNMlpCbjI0SnRtODYxRm9kYjRNUG1xS3htOXZBaUhYbWExX0dpVW55V3hwX1FnazRLMG1aRVhJdjBoazhqOENLU0F0Z1Rlek1tQkVlLU5LRmZ4TERlU05IU3JOX29nOFFSaHfSAewBQVVfeXFMTnBHYWM1cExXV1VMS3VNMlpJbTQ4LTVNeVpkZF9idU5DYlY0RmN5MUVWUWp5dWNkdFRGN1ZWMjc5YlJRbk92RnFpU0gtMm45RThZdU51dmYzUk5Bd09IMW1lWFBXaUVIZ3JtMjcxdHpRY3ZQd1Q0MjRKb3o2SHhIUU5QbDFMRTFtcWJxNGZSY1pjQjBiRnNDdGh3YnJCeTdPTGp0S1BES2ppbmNMMTZyUjh2NURUOWNaaEFYZnU0R2QtN01hTFNXNEc5ZDlvM240ZTlYMXBncVhENjR1YWx1cVdWb0xibDF2VmhjeHA?oc=5",
+   "source": "Infobae",
+   "date": "Fri, 02 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "¿Cuál es la entidad pública que mejor paga en Colombia y qué hay que estudiar para trabajar ahí?",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeXQ0Mms5QTdpOXVqbmtJNzR3V3JiV05jbGhBRjZlOUtUdFg3aW1vb05iaUxTenRXRWxEazhrVTY1UVFJbHpFMTdoWXFkNzJldnNPdHJuanRwRXhKSjlzTW5nMjVDSUVGVVhjQkI2MnZaVEZ0ZlJGUmw4Y0tlOWFQbVhXc3NkRXhQV25DMTRnU0FCbG5lM1ltaEFwdGtLWlJuWXE2amk4STRGb1Z2UWd6TXlqVUtBSmRrMEw0SllMQXZoN1N5ZW1rWWFaTXl0Nkx5Y09LV2ZB0gHbAUFVX3lxTE02WlVscjUyTTVvZFBKVjhLc0tldTZuTFJfaXFLM2wzdlc4N1dGcnlKRVBKeXkwbjBrVXNYUEdoUERsNTBhVG1tWC1VanJGUjFzaExEM0lEeEVFWEVFdHJ6VkZXR1hyS1lvLVVOY25hbm5fWEh2Q3l3RXpTZWdHbGt6OHozMi05WW92ZTA4UE9nZm5TUlBNMVNWZ05fcUo2UVNSWjFJR1RHQlpuSnd5TkRISEhYRXVFMWFoUjJMQXRobmktTVRiMklXOE5qV1RuWGVPQWl6emJOU0M4Zw?oc=5",
+   "source": "Tropicana Colombia",
+   "date": "Thu, 01 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "💰🏛️ ¿S/35 MIL PARA LOS MINISTROS? LOS ALTOS SUELDOS DEL ESTADO EN DEBATE En el video se cuestionan las remuneraciones que reciben los ministros y se plantea si estos ingresos están realmente justificados por la responsabilidad y, sobre to",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT3ZObTNpcTlYNUR5MzQyUXBSSU1kTndPeWNKbE5WSGhGbjFoSmZ0Z25fWjVJa25sUHRIY3gwZDZRekdXVFFTN1MxS0lwWkdqV3NkRG05MEJjZnR3Y0p1QVRyUVFIMG51U3hSZUZQVHRzeDRxTmQ3WDFRSkdEVENUeWNNakU3ZHl5a1h0VWxTc3plVU9yMFFZMFRqZDZZNG1YM1d0cjFzaFZsZGdpTF9Sb3l5RS1vZWRIOTFUWG9vcGVxN3BOclhqZWZvZlh4eGp0dHBkUDM4dWREaldPQ3ktWEhVNU10dDQ?oc=5",
+   "source": "Facebook",
+   "date": "Thu, 01 Oct 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Parlamento de Bolivia investigará acusaciones de EE.UU. a funcionarios con visados revocados",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTmVtNzBYcVJnOGREUkZQV3FDSnBwdmhpQlpadXNmRmd5QmRDVXR4X203Q0t3eGo0cHFBZzFFLVVPSUdlVUdWMGJuS21fcnA4b0tOTV9NOWFabDV3ZlRjTUpxTy1QMk5PZkZ0N3IzTnlhVHJKY2lKT2Y5cEhtNnZJOFBJLVBtQXVJWXRfZHd1TXR2eTZ6OU9sVmFPV0EwQ1ZsRG5EWGdQc05GUmEwbEdoYnhDdWJOazlxOW9ZOQ?oc=5",
+   "source": "N Digital",
+   "date": "Tue, 29 Sep 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Estados Unidos cancela visas a jueces y altos funcionarios de Perú, Bolivia, Colombia y Ecuador por corrupción",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRFdPdEEzTm92dGpicEFQY2tNTmNIekV4VGRRdlNzM3dLODlvZWdKVjB0eVZwSjBCTGhfYWxFdnVOM3UyY0x1QzZMUk9lQlpWaDdLY2RSZEc4MDNhSEFwMlVxelVEZEFHUEhqMnJjQ1lYeHFHenQ1UDlDN01OOTlNSUYtemNtaWpsRGg2d3dTVFRaWmFRREdMWFF5czFuRkR6NURITkFzdmpkd0hPVUdZaHlaWVotMGFiS09WWkVfLTRyQ0ZRSnl4RlowdXdRX3lnRG1EYkNSNGxjNHN1VWc?oc=5",
+   "source": "Exitosa Noticias",
+   "date": "Mon, 28 Sep 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Estados Unidos revoca visa a juez peruano que falló a favor de empresa china por puerto de Chancay",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU2JITld0V0dQLW9aSjdDMjExRFhNOFoyLS1IcTZXOTQ3VVhHakZfSFJ4dzVueXhVUDBPWHoyb09DSlE2TTh2TW03VndiSU8zcW1pQVVDNXN3RnpMcGFZaWZIUDJ3bXVyWk1ONERRdHU2bXh5M2xJRThGZTdTT1Y0czB6WGdtZmtGcU9F?oc=5",
+   "source": "Willax",
+   "date": "Mon, 28 Sep 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Hurtado y su pírrica victoria en la Procuraduría",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXR5Z2xvSllZUVlseFdPTHJaM05SLVVLb0ZoVHczOXUyeDJaVm0zRnFpVGFQczAzdHNRLWw4S1VKX0ZOeGdCeWhNTWd3blR1a015WDBUQ3ZidU5wMzFQbm5rUXFMdE1pY1ZPTW9HaW1ZUzZrYWNFRWYxQ1JRb1JNclRRWndxX3l3MmZJN2xMOFY?oc=5",
+   "source": "El Olfato",
+   "date": "Sun, 27 Sep 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Encrucijada fiscal en Colombia: analistas dudan de un gran recorte de gastos y ven necesario buscar nuevos",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcTB3ekJWMUtQRnRCSkRva1RqTVUwYkZxRjliTGhob1lYV01SeWh1V3VsYThUOWZFWkY2YlBna2xSS0tZTjROUXRveS1QNUhTalRtSXlBclJzbVVfRFBRN2ZuSGtBRFVvbWZHSUYzVHItOGZxU252eW5qRlhvZjBrMEF3UGtpSmlsQ1U2TDZ2eU5uMmZoVDU3S3FGT2NySE9GVlMxeHU0OXRMUERLQW4yaW1sS09UZFRZcWw1V3RMU3MyT0lpbTg5Q0ZGVnBJeU5SNFg4NG9PRlJQMzRvX2Yw0gHkAUFVX3lxTFBic3lQM0p1U0VNdHNwcERhQWRRUWY2ZUxwaTNPTmtwVWRoTVd6TEtoT1oza3lwMUUyem04cENUYUZ6ZDdiMlNxa3JaSEozbUNsbVNqWTJWRmwxcWFuY0FxU2NYaUpPaXo1VnpqWHdIVkJvOU1tdHRPdEFnUElOM2RuRzhXcEdQaDVzS2R3OGQwVEpnRGRsWkdZV0YyQkVBNDZWNVRrTldiVTFfemdLYWY3T3c5QmxPdGtwV05tRWpNOGNMMXk3UnUyZjVBVmJCSXVKTGdnOUxCXzFwNmFoWmlmWEplSQ?oc=5",
+   "source": "Valora Analitik",
+   "date": "Sun, 27 Sep 2026 07:00:00 GMT"
+  },
+  {
+   "title": "El salario de los congresistas colombianos deja a kilómetros de distancia al resto de legisladores de América Latina: esto dice estudio",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOU1hhaWNZQVRuM085eUlGR1RaYW1MRzIxVFNqZGY0R3A0Y054bF9tNmlhWERyVWdGSjFhT2VUV201MW4xZkx0bTlWYkxBWWFnZzRLamUxUlBsQU1uUnYwODBiWmdpLXpCcThiMzFZMmFuWFRBSFc3b2Fnd0ozOENfdTdlSEJwNi1MQlRxSzhCeE92R0ZtUGpFdTYxRVNFeEtadkR4SHM0VFV0WmIyQkhtb0hmR3hGaGtLWGtUTEZwU0VUalJ6UXNnYmJmQjVFWG5iV283cmdlRTFZY1U3RWFYbl8zY0lSM2VJYm9PcEhWUzNqZFBOVlNvb3pndVVXMjdOYmJVSDVhWWRSc1ZUWlJDUNIBlgJBVV95cUxPWDI0UjAzTlpWUWRBeXM5dEpkTjgxT2piRjZQWm1tYWJQdmluT3FacXkySUFPZDZwMldNWXJBU1FJbnFNeHZFVFM1U0ktWTRVbjl5NkZ0emZZN3AxV1hhaFRSWXVHdmhzZFFRaS0yaWFPVHdsY0hleUdwdm5QeXlRVzNEV2RkWW0yTzlOMmdXN2VBQkpMX3hSUEhNV3VtZ1M1RElvajRHZDdIWmRaZnhIeGZfNUlKcGp1eXNlYktJSnZMTFJtam9FUXcxaURfZVVhWkNiUXVBRG9kTTEydU5FaUhsTDNlTG13VVRwTW1hODlQXzNjM09vS2daOEJfbVp1Rm12a1djU25XcllRbU04cWVOYklzQQ?oc=5",
+   "source": "Revista Semana",
+   "date": "Thu, 24 Sep 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Los millonarios sueldos de funcionarios del Congreso: 165 trabajadores reciben de $8 millones a hasta casi $20 millones al mes",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSWd3MTlLeHVhWEtmREx1azhWYmk4dHAtRlRaZDVNN1MzdXMteVJMbktmWmF0dFV6S244WmJoMlBNM1dKMzVEdFo0LU9rMGpsUjR5a2EycnREaU00eGdkZWJoaEJkY1lFRlJTczltYnRtdVo1MTZxLWM5cHhINFQ2TEkxZUp3MHRFaDJLcWd2YXJ3bFp4YWxpTF9BeFBjelVnTEpNbTdXWHNiOEIzZHlRbzh2ekJzRjFUY3VZMjI5Zy1lbG9IZUhPeFdCaEpkeC1oNlhBbUxKZFFUeEh5ZWhMU3lkdHZrdmhDQmFkTTdBZ3JUUdIB9wFBVV95cUxNMDYtRHEyRFo5NlhxRndOZGt2WTRSYTJad1czeGpRU2V1WjlBNlRTRTRCSkNlWmRUaE81RkNxb2w0ZFhFNTdqX1AxYTBRVVZUaW9WcVdicnYzV0xjZy1wZUdMbmJ2YTl6UWJQc2F3QlRkY0pmVE9PSDRZa2p4V2xmT0tYeE1ubW1OdndZZTFvYTB1S3Y3S1VDY0dnZ0pZSkNDTHNDS0s0WWlSMDNJWXZxSktFeHVsYXM4aVRzNWVGdEZTN3lEZ3NiTS1pRk5xOGs2anRNdTRzLVh1S0thSk1YenV5d0JvWUdOTVJieXVGZnAybUhZNWJv?oc=5",
+   "source": "The Clinic",
+   "date": "Mon, 21 Sep 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Abelardo de La Espriella no es el primer presidente que dona su sueldo: estos fueron los otros mandatarios colombianos que hicieron lo mismo",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRnJvcEp2ZDUwX0NxMEUxRmpuQW5IeXkwazFLREJjQlBOelgybDh5QURpaUhleGdidHlmUE53TUJoZVp5X2JXVXlqT20yNE51ZGZDZTAtS2JCM2JRdzdKQ3hIZjJXOGVmU0c1Wkd2RHdpdm5lZjk3ekxPcmROQ0RUZlp5ckdqRTdnaGI4SjY3NUtiRzB6RDFtLVFtTk5wQUZpWkp2dGN4OTBQaWZ0OExJLUdnTmF6dTNjZWMwUURvazhMSVVjUk5RRjFkSDJLMzNKTnF2dkJnODlZYjl0N21vRXVncHpqZTN5Um1hZFlxaFVZU2g1SW8ySElSMHB6WTYxaU45YU9PZXDSAaMCQVVfeXFMTUdITnA5Q0Z0djRxeGQ0ay14Vk92V3I3Rjhld3RFeEJlcF9TWnYwWmduM1B4QjNKX0p1NmdCcmdxeTZ5YnkxeUwwYzdvSGdOSVFzQ0xDZ2EtSHpvY3FjQnNsQXBaOHZTQ0dEZzg5WWVHX1lvUlpCOE5PVjVaLWRySV9HNThuYVEtMkNRaTBfQmR6MXVTTkJPQW9GRXB5bGxLYlkxWWJFRTdhU0dfX3FTSS11SjRyM3p1dFF2NkQ3ckJBcm1tekZJLXFXU3U1OFY4VzJlWW5fM2R6dXp0VlU1NS1mQWRLWUt1dVBEZ0gzeVc3M1JMSUM1SzBYanhnNERBZWVta3JUcE9FUC0ybm5vNTFCZFVxWXRkdXhLQzVCbVdZa1FV?oc=5",
+   "source": "Infobae",
+   "date": "Mon, 14 Sep 2026 07:00:00 GMT"
+  },
+  {
+   "title": "El líder mejor pago del planeta: no gobierna ninguna potencia, pero gana más que seis presidentes juntos",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPX1J3OWcxdkZFeFdVeExjSGZ1RjBqSUVVQmFvd3ctX0JnRUdiZnZfbF90S0xNODM1QTVsbDdfWV95NUhQRkNGWEFpUlZpclNUUVBvMXlBLWhObWlKNkRFN2RlTThvamxhS1pkRkYtVzctN01qandSRzBBNy1XbDZOZG1sT1NpbEVIcFNER2N1SjdGaVl1SDdYMzVrMWFyY21wdTlMOXM4YnFmclkxQWxVYkh0MHlhMlg2azNYZ3paV3ZrOEVlR3dDenB5eWJCaUpvTmF2djBuV1Z2cmlnRV9heDhhV2tFMTTSAYICQVVfeXFMTWNVczlMOHZFUlFCaDFQblMycFpoZnBKVnJ2NGR3bWsySW5lWExBVHZ4alhzbmlhMTRIM21pWExmNGNzWFNNZUwyRTJxRlFuZGFsS0JTRG5naDZOQjBFODVVb09nT01pQ0VSNS15UFVOaGsxYzRNYVlzdHVueXAzZHdpT2hMN2lhQ0JhN05PYS15ZFJlM2VSY2FOcUFmejQ2LVA5UlFVMzkydzNKd2JNWnJVZm5Ud2ZUZTFlSTdIcWZHcTZ4TU5mVDk2OHJPYWtUaGJLNnl5Q0g2QWpPTm9wLUVtczlOOEpLY0I1a0xZbUJCVnc0QTZtQnFTMjN0ei0wZnVn?oc=5",
+   "source": "Infobae",
+   "date": "Mon, 14 Sep 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Diputado Harvey Colchado propone recortar pensión a congresistas que fueron policías y militares que cobren “doble sueldo”",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOM0ZUbFNiTk5TRjdLZ0lKVXZxSUJTbDNOSHB3by1vX2NieE42a3NhbkhnX1dKc2FLLURFSXUyUG9qWDh4eVVoZlA4LTlXWmRZSGtPbzVQRVExNHIzTTMxOGJYWU5ZaTE1QWZhN3U0QkFVZElaSHJoek5oOWFuVXhCMGpKeUd5cl9xaUtOVU1qSUNLV0RZOTRfX2hNVDd2QjdING5UbGxJb1pGLW95MmZQOVZJTE1hQWtRREhNc29Qa1gwVXJWVi1URFdmXy00WEl6RnFKemo4eDJsOWpkS0hOUzhEWktxaGhwUHdudXVWVkNUcmPSAY4CQVVfeXFMTWxnVUNWd0p2aEt2U243b1ZKQzFKODlLZ24zOWJNaVF3aGZhNFJZRWFZSjV3cHFONnV1d0o3enE5WThsZEZVQnYtbWNzSzFiTHducDZOV0E0ZERvcTVKdzNYU3AzYVhZUGQ5STA5bUFWdzlCQ0M0S3VMRnpCX3BYbFJqNTNSQ2lqSmVaT3N1TVh1QzdIa3NpMzkwQlBGR01xdlB1WkVGeFpfVzN4RFlxLXBoZFlYZm0yb0hXeGhPZUNUYkg0THN6U1VBOUNpZTVJdWFYd3hEU0stYjI3V1NkVklETlczak55MmdFc2dtbFdqbE52QUdmNTJaZ1pPeV9PTDE2cmJSeUpWX3NnZVdB?oc=5",
+   "source": "Infobae",
+   "date": "Sun, 13 Sep 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Daniel Quintero salió en defensa de su hermano, Miguel, imputado por la Fiscalía por corrupción: “Sin una sola prueba”",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZkNjcktVY1VaSXkwbWFPTTJIN29NUlpfYW9tNHUxRk9LMEhiQmE3dXdTYlZ2ZTBiZmFubVd0TkxFVkYtOTVhUkRmSGoycFRDYlZrV2FRZ2pwNjJMN1l3S3NiaUU3alNiOGQ1Q3VkeG96VDNWUVJRMW4yMVlkMVpvdEU5RUlXNWVDeGM0NTI2S3ZESTVXcHd0LVQ5Yi0xaXZCZW9Vc3hOdC11Q0pzdXZGUHFvN1ZDblNjaVEtalMwcmVUei00WXNfalFnU1prVmNLRXg0SU9jNlNJRlJTR2pIS2h4bnJNMDZMc1dKejZzbDBKbF9IYmt1Z0VETdIBlgJBVV95cUxQa1llTmtGSzRrUjZiRUJFd1V4TFd1RXo5X0tzTDNLTTNOaS1JYm5CTG54SHpoS1l4U0lmeFNnc2ZCUVNFb1VYZjIyMWtDWk9NTzVIV3NjR2VUS00wc0lUZGd3b0NjY1I5WjFIUHlIZkwwWm9zWDhfUG01WjM5bWI0dEpRMkpuemZHMzVSUVpMM3JsVVNHVF9sdkFMbUlLVlpSdDYwUGxYWmNiRjF0SEtqUzhQck5qQnd0ZnRPVEFobDBSMmJLcVdZWENjZDdreXVQMkVRVnlVTUR6Y0hsWUdheHNZUFdnUjBVb190dE9ySFVPRmtneFVoNVk5TV8tVE9PMG1sNlJYMUdCXzltbkRCMHB0T1J6UQ?oc=5",
+   "source": "Infobae",
+   "date": "Fri, 11 Sep 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Gobierno fija postura ante polémica por contratación de jóvenes con altos sueldos: “Tenemos que ser rigurosos”",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ1U2cXc2OXR4TzVYc25ub19mX3p0VmhyY1JyZURUQmQzZ0tNY2FhVjhwLUViWFhjckhGNkx5RFZ1VkdsajRnYzFLWUJRQlJ3Z1U5N0xQT3hBTWh0ZE80aG5kbFhWTEcxMmdSejZaVVBxUjlZYno0enFvM1lfclY3TTVaYUt1Vk5fMFZjSURwSVJzSnJCM3dGOTBLQ2dnTUZSeVpZQjlWWVVyOUNidlQ0Nl82SXY3dGJrWkVmYmk4T3BrWUdldVRSYXB3V2xNak0wOU5BRVE5eVZybUHSAe8BQVVfeXFMT2FQbnZhWDBGVzlPY295UnRyVDVPUE9uVlFoeEFMWGl5Mi1ETVAwY21lczl5Nk8tT2Z6WGhrLVJYaHRLZEdJY2tLZnRlTkJsRVhoQW02OE9VZmNqVzRLcXJiWFFqMmtuaVg3b1BvdS0xSXhuc2x6V1lWWVQ4aVdadW1EeTQ4bnVzamU1VXg3enA4X0JtcjJRaGE2U3VsbXpIa01URHNBQlFoeDFqZmNyaUlTOGN2V3FiU05jNHFHSlhvV2JCdVpNY19GVVptMjVoLWxOWW5KT1FKUmQ0amtvRXBXU2t2TExXeFlfRmxxc2s?oc=5",
+   "source": "ADN Radio",
+   "date": "Thu, 10 Sep 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Sin alzas impositivas reducirán déficit",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWg1ZmhEQk9CWUt1TW16RWJaOC01alBWVGlRcmgxZmJ4ZjNqbzhSRDQ5SFFLSlpQM3NLOVRCWmJUTDJjVGQ3eFB0X3p2U3JKSUxzQWx6QXl6SnZBZzMtcWxxdUlNeF9zU1dNbHNGUU1pVGIyUWJyWUNCUWhpNE9wMkVSWEFiNkw3OVZDdNIBpwFBVV95cUxPNnVwZWdnSGkzZDlzcm5lS2ZlRkRMaE5PeV9QRFBqZVNRclQ5UUQ3UUx6WDk3SUFrTkJBOTAzVlFFT1VUZUxUSlE0U2VvMzFHZklBa3RqS2lFRl9oOHhvX3lBNk15SXEtSjRMYnVzcEFHZGEwMk9PZ2l0Vzg0VmpyXzNGaHpIRjZuQWlnZndzWEtRVjVmS0p2NmVqeXJWazktNEd5ZDBaSQ?oc=5",
+   "source": "La Razón de México",
+   "date": "Thu, 10 Sep 2026 07:00:00 GMT"
+  },
+  {
+   "title": "Quién es el líder político mejor pagado del mundo y por qué le subirán el salario US$1 millón",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GSG1VOUVZa3l5VFZzWmR6SmJjZ2pjejV6VnhDeElpakJ2WnhoYi1EYTdHc2RDQlRLZ0l1TnU5b0lDWHllWFVfN2NKc1JsZWkyWHB3OGgwNGJVcWfSAWBBVV95cUxPMktZdV9WUUEtdGVWUGsyQjJ0TGtPUjRYZDJ3ZFBaTzc4M2F2SXFSc2hZOWhkX1ROLWxCUjdPQ0ZSSGN3SjNhUExBZ2hzSFBLZHJFZkxETVU5dkJ6N0tEQTk?oc=5",
+   "source": "BBC",
+   "date": "Tue, 08 Sep 2026 07:00:00 GMT"
+  },
+  {
+   "title": "El gobierno de Sri Lanka se jacta de la “recuperación económica” mientras se agrava la austeridad",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3WURwRnAxZVQ0RG9HamhfSVNyZEhiSTdKQ0xhVlNMOWRLNUlKQXp2SWViSEpJb0J5ZjNQeHV3Q3Eyd3g0TFBQX1lvR04wVEt0VUpBMEdfY3R3VTNObU45Wl9Wd3ZvR1J0?oc=5",
+   "source": "World Socialist Web Site",
+   "date": "Tue, 08 Sep 2026 07:00:00 GMT"
+  },
+  {
+   "title": "🔵⚪ La mandataria percibió un pago de S/39,124.80, correspondiente a su primera remuneración como jefa de Estado. El monto forma parte del nuevo esquema salarial establecido para la Presidencia de la República. 📸 Foto: Difusión 📲 Visita nuestra página",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT1ZkWXBGQW9SVWI0b1B3QWMxc2dmNmVxdjJHZnBWNGV3amFmTTVJWi1Gc21zV1lkUk9FVDU4VG91dlhmNUZTdUNyRlJUOE93aDh0MFA4dmNqajQzLXJPZk1EN2wycUVoU2F1WEREeE5qaHk1bFJHbWI1Y19qRHBhcS1aczJwZHlkYXAtSWpoaTJkZVN5WWoxeHVrNnBFbjd3Y3hhd0RTWHJ5RDNHSDBib0YzODJESk9EdjBjVlJ0Tjc3MXJxSjVydEx4bDVWcFhWV1I2RDJuZDZ3OXJfYXhyWTJqVQ?oc=5",
+   "source": "Facebook",
+   "date": "Mon, 07 Sep 2026 07:00:00 GMT"
+  }
  ]
 }
