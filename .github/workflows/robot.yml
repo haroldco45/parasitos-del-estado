@@ -1,0 +1,46 @@
+name: Robot de noticias
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # cada 30 minutos
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore: ['data/**', 'img/**']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: robot
+  cancel-in-progress: false
+
+jobs:
+  noticias:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Traer noticias y fotos
+        run: node scripts/robot.mjs
+      - name: Armar imagen de vista previa (og.jpg) con foto real
+        run: |
+          if [ ! -f img/og.jpg ] && [ -f img/capitolio.jpg ]; then
+            sudo apt-get install -y -qq imagemagick fonts-dejavu-core >/dev/null || true
+            convert img/capitolio.jpg -resize 1200x630^ -gravity center -extent 1200x630 \
+              \( -size 1200x630 gradient:'rgba(11,18,32,0.15)-rgba(11,18,32,0.92)' \) -compose over -composite \
+              -font DejaVu-Sans-Bold -fill '#ff3b30' -pointsize 30 -gravity northwest -annotate +60+60 'LUPA CIUDADANA · VIBRAS POSITIVAS HM' \
+              -fill white -pointsize 92 -gravity southwest -annotate +60+190 'PARÁSITOS DEL ESTADO' \
+              -fill '#ffd23f' -pointsize 40 -annotate +60+120 '$1.041 millones en un año para un solo cargo' \
+              -fill white -pointsize 30 -annotate +60+60 'parasitos-del-estado.netlify.app' \
+              -quality 85 img/og.jpg || echo "No se pudo armar og.jpg"
+          fi
+      - name: Guardar cambios
+        run: |
+          git config user.name "robot-vibras"
+          git config user.email "robot@users.noreply.github.com"
+          git add data img
+          git diff --cached --quiet || git commit -m "Robot: noticias $(TZ=America/Bogota date '+%Y-%m-%d %H:%M') hora Colombia"
+          git push

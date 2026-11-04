@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Parásitos del Estado · Vibras Positivas HM</title>
+<meta name="description" content="La lupa ciudadana a los sueldos y privilegios que pagamos todos los colombianos. Empezamos por el subsecretario del Senado: más de $1.000 millones al año.">
+<meta name="theme-color" content="#0b1220">
+<link rel="canonical" href="https://parasitos-del-estado.netlify.app/">
+
+<!-- Vista previa del enlace (WhatsApp, Facebook, X) con foto real del Capitolio -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Vibras Positivas HM">
+<meta property="og:title" content="Parásitos del Estado: ¿cuánto nos cuestan?">
+<meta property="og:description" content="Un funcionario del Senado recibió $1.041 millones en un año. Un trabajador con salario mínimo tardaría casi 50 años en ganarse eso. Mira los datos y exige respuestas.">
+<meta property="og:url" content="https://parasitos-del-estado.netlify.app/">
+<meta property="og:image" content="https://parasitos-del-estado.netlify.app/img/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="es_CO">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Parásitos del Estado: ¿cuánto nos cuestan?">
+<meta name="twitter:description" content="$1.041 millones en un año para un solo funcionario del Senado. Mira los datos y exige respuestas.">
+<meta name="twitter:image" content="https://parasitos-del-estado.netlify.app/img/og.jpg">
+
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="img/icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="topbar">
+  <a class="brand" href="#inicio">PARÁSITOS <span>DEL ESTADO</span></a>
+  <div class="topbar-actions">
+    <button id="btnRefresh" class="btn-ghost" data-i18n="refresh">Actualizar</button>
+    <button id="btnLang" class="btn-ghost" aria-label="Language">EN</button>
+  </div>
+</header>
+
+<nav class="tabs" id="tabs">
+  <a href="#hoy" data-i18n="nav_today">Hoy</a>
+  <a href="#caso" data-i18n="nav_case">El caso</a>
+  <a href="#verifica" data-i18n="nav_check">Verificado</a>
+  <a href="#calcula" data-i18n="nav_calc">Calcula</a>
+  <a href="#ranking" data-i18n="nav_rank">Ranking</a>
+  <a href="#expedientes" data-i18n="nav_files">Expedientes</a>
+  <a href="#peticion" data-i18n="nav_petition">Exige</a>
+  <a href="#fuentes" data-i18n="nav_sources">Fuentes</a>
+</nav>
+
+<main>
+
+<!-- HERO -->
+<section id="inicio" class="hero">
+  <div class="hero-bg">
+    <img class="kb" src="img/capitolio.jpg" data-fallback="https://commons.wikimedia.org/wiki/Special:FilePath/Capitalio_National_de_Colombia,_Bogot%C3%A1.jpg?width=1600" alt="Capitolio Nacional de Colombia, Bogotá">
+  </div>
+  <div class="hero-shade"></div>
+  <div class="hero-content">
+    <p class="kicker" data-i18n="hero_kicker">Lupa ciudadana · Plata pública</p>
+    <h1 data-i18n="hero_title">¿Cuántos parásitos tiene el Estado?</h1>
+    <p class="hero-sub" data-i18n="hero_sub">Sueldos y privilegios que pagamos todos con impuestos. Con cifras verificadas, fuentes y una carta para exigir respuestas.</p>
+
+    <div class="meter">
+      <p class="meter-label" data-i18n="meter_label">Desde que abriste esta app, al subsecretario del Senado se le han pagado</p>
+      <p class="meter-value" id="meterValue">$0</p>
+      <p class="meter-note" data-i18n="meter_note">Calculado con lo que le pagó el Senado en 2024: $1.041 millones en el año.</p>
+    </div>
+
+    <div class="hero-cta">
+      <a class="btn" href="#peticion" data-i18n="cta_petition">Exigir respuestas</a>
+      <a class="btn btn-line" href="#verifica" data-i18n="cta_check">¿Es cierto lo de los 124 millones?</a>
+    </div>
+  </div>
+</section>
+
+<!-- STRIP DE CIFRAS -->
+<section class="strip">
+  <div class="stat"><b class="count" data-to="1041" data-prefix="$" data-suffix=" mill.">0</b><span data-i18n="s1">pagados en 2024 a un solo cargo</span></div>
+  <div class="stat"><b class="count" data-to="50" data-suffix=" años">0</b><span data-i18n="s2">de salario mínimo para igualar ese año</span></div>
+  <div class="stat"><b class="count" data-to="24" data-suffix=" años">0</b><span data-i18n="s3">en el mismo cargo (desde 2002)</span></div>
+  <div class="stat"><b class="count" data-to="101" data-suffix=" votos">0</b><span data-i18n="s4">para reelegirlo el 20 de julio de 2026</span></div>
+</section>
+
+<!-- HOY -->
+<section id="hoy" class="block">
+  <div class="block-head">
+    <h2 data-i18n="today_title">Hoy</h2>
+    <p class="today-date" id="todayDate"></p>
+  </div>
+  <div class="today-status" id="todayStatus" data-i18n="loading">Buscando noticias…</div>
+  <div class="news" id="newsList"></div>
+  <p class="small" data-i18n="today_note">Un robot busca noticias reales cada 30 minutos y, además, la app hace una búsqueda en vivo cada vez que entras.</p>
+</section>
+
+<!-- EL CASO -->
+<section id="caso" class="block case">
+  <div class="case-photo">
+    <img src="img/capitolio2.jpg" data-fallback="https://commons.wikimedia.org/wiki/Special:FilePath/El_Capitolio_Nacional_(Bogot%C3%A1,_Colombia)_1.jpg?width=1200" alt="Fachada del Capitolio Nacional">
+    <span class="tag" data-i18n="case_tag">Senado de la República</span>
+  </div>
+  <div class="case-text">
+    <h2 data-i18n="case_title">El caso que destapó todo</h2>
+    <p data-i18n-html="case_p1">Saúl Cruz Bonilla es <b>subsecretario general del Senado</b> (no secretario, como dicen algunas publicaciones). Entró al Senado en 1984 y está en ese cargo desde 2002. El 20 de julio de 2026 los senadores lo reeligieron con 101 votos.</p>
+    <p data-i18n-html="case_p2">Según la investigación del periodista Alberto Donadío publicada en Semana, el Senado le pagó <b>$1.041 millones en 2024</b>: unos $86 millones al mes en promedio. Su sueldo básico ronda los $22 millones; el resto sale de primas técnicas, de antigüedad, de gestión, bonificaciones de dirección y vacaciones pagadas en dinero.</p>
+    <p data-i18n-html="case_p3">Lo grave no es que sea ilegal: los medios dicen que esos pagos están amparados por normas. Lo grave es que <b>las normas lo permiten</b> mientras al ciudadano le suben los impuestos.</p>
+    <div class="timeline">
+      <div><b>1984</b><span data-i18n="tl1">Entra a trabajar al Senado</span></div>
+      <div><b>2002</b><span data-i18n="tl2">Lo eligen subsecretario general</span></div>
+      <div><b>2017</b><span data-i18n="tl3">La Procuraduría lo suspende por fingir una agresión de un camarógrafo de Noticias Uno</span></div>
+      <div><b>2024</b><span data-i18n="tl4">Recibe $1.041 millones en el año</span></div>
+      <div><b>20 jul 2026</b><span data-i18n="tl5">Reelegido con 101 votos</span></div>
+      <div><b>oct 2026</b><span data-i18n="tl6">El Consejo de Estado anula la convocatoria con la que se eligieron los cargos del Senado; no aclara qué pasa con los elegidos</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- VERIFICADOR -->
+<section id="verifica" class="block">
+  <h2 data-i18n="check_title">Lo que dice el post vs. lo que está probado</h2>
+  <div class="checks" id="checks"></div>
+</section>
+
+<!-- CALCULADORA -->
+<section id="calcula" class="block calc">
+  <div class="calc-photo">
+    <img src="img/lluvia.jpg" data-fallback="https://commons.wikimedia.org/wiki/Special:FilePath/Capitolio_Nacional_en_la_lluvia_I.jpg?width=1200" alt="Capitolio Nacional bajo la lluvia">
+  </div>
+  <div class="calc-box">
+    <h2 data-i18n="calc_title">¿Cuánto tendrías que trabajar tú?</h2>
+    <label for="mySalary" data-i18n="calc_label">Escribe lo que ganas al mes (pesos)</label>
+    <input id="mySalary" inputmode="numeric" value="1.750.905">
+    <div class="calc-out">
+      <div><b id="calcYears">0</b><span data-i18n="calc_years">años trabajando para ganar lo que él recibió en 2024</span></div>
+      <div><b id="calcDays">0</b><span data-i18n="calc_days">horas le toma a él ganarse tu sueldo de un mes</span></div>
+    </div>
+    <p class="small" data-i18n="calc_note">Salario mínimo 2026: $1.750.905 (Decreto 1469 de 2025). Comparación con el pago total 2024 reportado por Semana.</p>
+  </div>
+</section>
+
+<!-- RANKING -->
+<section id="ranking" class="block">
+  <h2 data-i18n="rank_title">El mapa de los sueldos más altos</h2>
+  <p class="lead" data-i18n="rank_lead">Pago mensual aproximado. Ojo: mezcla años y conceptos (algunos son salario, otros costo total con primas). Cada barra dice de dónde sale.</p>
+  <div class="bars" id="bars"></div>
+</section>
+
+<!-- EXPEDIENTES -->
+<section id="expedientes" class="block">
+  <h2 data-i18n="files_title">Expedientes abiertos</h2>
+  <p class="lead" data-i18n="files_lead">Cada caso con su cifra, su fuente y su estado. ¿Conoces otro? Mándalo y lo revisamos antes de publicarlo.</p>
+  <div class="files" id="files"></div>
+  <form id="formCase" class="form-case">
+    <h3 data-i18n="propose_title">Propón un caso</h3>
+    <input id="pcCargo" required data-i18n-ph="pc_cargo" placeholder="Cargo y entidad">
+    <input id="pcCifra" data-i18n-ph="pc_cifra" placeholder="Cifra que se denuncia">
+    <input id="pcFuente" required data-i18n-ph="pc_fuente" placeholder="Enlace de la noticia o documento">
+    <button class="btn" data-i18n="pc_send">Enviar por WhatsApp</button>
+    <p class="small" data-i18n="pc_note">Solo publicamos casos con fuente verificable.</p>
+  </form>
+</section>
+
+<!-- DERECHO DE PETICIÓN -->
+<section id="peticion" class="block petition">
+  <h2 data-i18n="pet_title">Derecho de petición: exige qué pasó</h2>
+  <p class="lead" data-i18n="pet_lead">Llena tus datos y la app arma la carta. Un solo botón la envía a la vez al Senado, la Contraloría y Función Pública. La Procuraduría ya no recibe peticiones por correo: te la dejamos copiada para pegarla en su formulario oficial.</p>
+  <div class="pet-grid">
+    <form id="formPet" class="pet-form">
+      <input id="pNombre" required data-i18n-ph="p_name" placeholder="Nombre completo">
+      <input id="pCedula" required inputmode="numeric" data-i18n-ph="p_id" placeholder="Cédula">
+      <input id="pCiudad" required data-i18n-ph="p_city" placeholder="Ciudad">
+      <input id="pCorreo" required type="email" data-i18n-ph="p_mail" placeholder="Correo para la respuesta">
+      <div class="dest">
+        <p data-i18n="p_dest">Se envía a:</p>
+        <label><input type="checkbox" class="destchk" value="atencionciudadanacongreso@senado.gov.co" checked> Senado de la República</label>
+        <label><input type="checkbox" class="destchk" value="cgr@contraloria.gov.co" checked> Contraloría General</label>
+        <label><input type="checkbox" class="destchk" value="eva@funcionpublica.gov.co" checked> Función Pública</label>
+      </div>
+      <button class="btn" type="submit" data-i18n="p_send">Enviar a todos de una vez</button>
+      <button class="btn btn-line" type="button" id="btnGmail" data-i18n="p_gmail">Enviar con Gmail</button>
+      <button class="btn btn-line" type="button" id="btnProcu" data-i18n="p_procu">Copiar y abrir formulario de la Procuraduría</button>
+      <p class="small" id="petMsg"></p>
+    </form>
+    <div class="letter" id="letter"></div>
+  </div>
+</section>
+
+<!-- VIDEOS -->
+<section class="block">
+  <h2 data-i18n="vid_title">Videos del caso</h2>
+  <div class="video-links">
+    <a class="vid" target="_blank" rel="noopener" href="https://www.youtube.com/results?search_query=Sa%C3%BAl+Cruz+subsecretario+Senado+salario">
+      <img src="img/capitolio.jpg" data-fallback="https://commons.wikimedia.org/wiki/Special:FilePath/Capitalio_National_de_Colombia,_Bogot%C3%A1.jpg?width=800" alt="">
+      <span data-i18n="vid1">Ver videos sobre el salario de Saúl Cruz en YouTube</span>
+    </a>
+    <a class="vid" target="_blank" rel="noopener" href="https://www.youtube.com/@CanalCongresoColombia/search?query=subsecretario">
+      <img src="img/capitolio2.jpg" data-fallback="https://commons.wikimedia.org/wiki/Special:FilePath/El_Capitolio_Nacional_(Bogot%C3%A1,_Colombia)_1.jpg?width=800" alt="">
+      <span data-i18n="vid2">Canal Congreso: sesiones y elección de la mesa del Senado</span>
+    </a>
+  </div>
+</section>
+
+<!-- FUENTES -->
+<section id="fuentes" class="block">
+  <h2 data-i18n="src_title">Fuentes</h2>
+  <ul class="sources" id="sources"></ul>
+  <p class="disclaimer" data-i18n="disclaimer">Aquí "parásito" es una crítica política a privilegios pagados con plata pública, no una acusación de delito. Las cifras vienen de medios y fuentes oficiales citadas; si alguna cambia, la corregimos.</p>
+</section>
+
+</main>
+
+<footer class="foot">
+  <p><b>Vibras Positivas HM</b> · <span data-i18n="foot">App ciudadana hecha en Caucasia, Antioquia</span></p>
+  <p class="small" id="lastUpdate"></p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
