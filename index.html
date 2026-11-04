@@ -12,7 +12,7 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Vibras Positivas HM">
 <meta property="og:title" content="Parásitos del Estado: ¿cuánto nos cuestan?">
-<meta property="og:description" content="Un funcionario del Senado recibió $1.041 millones en un año. Un trabajador con salario mínimo tardaría casi 50 años en ganarse eso. Mira los datos y exige respuestas.">
+<meta property="og:description" content="Senado: $1.041 millones en un año para un solo cargo. JEP: 5 magistrados denunciados por presuntamente cobrar sin resolver apelaciones. Mira los datos y exige respuestas.">
 <meta property="og:url" content="https://parasitos-del-estado.netlify.app/">
 <meta property="og:image" content="https://parasitos-del-estado.netlify.app/img/og.jpg">
 <meta property="og:image:width" content="1200">
@@ -42,7 +42,8 @@
 
 <nav class="tabs" id="tabs">
   <a href="#hoy" data-i18n="nav_today">Hoy</a>
-  <a href="#caso" data-i18n="nav_case">El caso</a>
+  <a href="#caso" data-i18n="nav_case">Senado</a>
+  <a href="#jep" data-i18n="nav_jep">JEP</a>
   <a href="#verifica" data-i18n="nav_check">Verificado</a>
   <a href="#calcula" data-i18n="nav_calc">Calcula</a>
   <a href="#ranking" data-i18n="nav_rank">Ranking</a>
@@ -118,6 +119,30 @@
   </div>
 </section>
 
+<!-- CASO JEP -->
+<section id="jep" class="block case">
+  <div class="case-photo">
+    <img src="img/lluvia.jpg" data-fallback="https://commons.wikimedia.org/wiki/Special:FilePath/Capitolio_Nacional_en_la_lluvia_I.jpg?width=1200" alt="Plaza de Bolívar, Bogotá">
+    <span class="tag" data-i18n="jep_tag">Caso JEP · Foto: Plaza de Bolívar</span>
+  </div>
+  <div class="case-text">
+    <p class="kicker" data-i18n="jep_kicker">Denuncia en curso · No probada</p>
+    <h2 data-i18n="jep_title">¿Siete años cobrando sin resolver apelaciones?</h2>
+    <p data-i18n-html="jep_p1">El 23 de octubre de 2026 se presentó ante la <b>Comisión de Investigación y Acusación de la Cámara</b> una denuncia penal y disciplinaria contra los cinco magistrados de la <b>Sección de Apelación de la JEP</b>: Danilo Rojas Betancourth, Rodolfo Arango Rivadeneira, Eduardo Cifuentes Muñoz, Sandra Gamboa Rubiano y Patricia Linares Prieto.</p>
+    <p data-i18n-html="jep_p2">La denuncia dice que, aunque la JEP arrancó en 2018, esa sección solo empezó a resolver apelaciones de sentencias de fondo a finales de 2025, y que mientras tanto cobraron su sueldo y tuvieron una planta de 11 funcionarios por despacho. Pide investigarlos por <b>peculado por apropiación, prevaricato y abuso de autoridad</b>.</p>
+    <p data-i18n-html="jep_p3">La otra cara: registros de la propia JEP muestran que la Sección de Apelación <b>sí produjo decisiones antes de 2025</b> (recursos de otras salas, acreditación de víctimas). Ninguna autoridad ha comprobado los hechos. Por eso aquí pedimos los números oficiales, no condenas.</p>
+    <div class="timeline">
+      <div><b>2018</b><span data-i18n="jt1">Arranca la JEP</span></div>
+      <div><b>2024</b><span data-i18n="jt2">Acuerdo AOG 020: planta de 11 funcionarios por despacho</span></div>
+      <div><b>sep 2025</b><span data-i18n="jt3">Primeras sentencias de fondo de macrocasos (casos 01 y 03)</span></div>
+      <div><b>20 oct 2026</b><span data-i18n="jt4">Danilo Rojas, uno de los denunciados, es elegido presidente de la JEP</span></div>
+      <div><b>23 oct 2026</b><span data-i18n="jt5">Radican la denuncia ante la Comisión de Acusación</span></div>
+      <div><b>5 nov 2026</b><span data-i18n="jt6">Rojas asume la presidencia de la JEP</span></div>
+    </div>
+    <a class="btn" href="#peticion" data-case="jep" data-i18n="jep_cta">Exigir los números de la JEP</a>
+  </div>
+</section>
+
 <!-- VERIFICADOR -->
 <section id="verifica" class="block">
   <h2 data-i18n="check_title">Lo que dice el post vs. lo que está probado</h2>
@@ -173,11 +198,14 @@
       <input id="pCedula" required inputmode="numeric" data-i18n-ph="p_id" placeholder="Cédula">
       <input id="pCiudad" required data-i18n-ph="p_city" placeholder="Ciudad">
       <input id="pCorreo" required type="email" data-i18n-ph="p_mail" placeholder="Correo para la respuesta">
+      <div class="casepick">
+        <p data-i18n="p_case">¿Sobre qué caso?</p>
+        <label><input type="radio" name="pcase" value="senado" checked> <span data-i18n="pc_senado">Senado: sueldo del subsecretario</span></label>
+        <label><input type="radio" name="pcase" value="jep"> <span data-i18n="pc_jep">JEP: magistrados de la Sección de Apelación</span></label>
+      </div>
       <div class="dest">
         <p data-i18n="p_dest">Se envía a:</p>
-        <label><input type="checkbox" class="destchk" value="atencionciudadanacongreso@senado.gov.co" checked> Senado de la República</label>
-        <label><input type="checkbox" class="destchk" value="cgr@contraloria.gov.co" checked> Contraloría General</label>
-        <label><input type="checkbox" class="destchk" value="eva@funcionpublica.gov.co" checked> Función Pública</label>
+        <div id="destList"></div>
       </div>
       <button class="btn" type="submit" data-i18n="p_send">Enviar a todos de una vez</button>
       <button class="btn btn-line" type="button" id="btnGmail" data-i18n="p_gmail">Enviar con Gmail</button>
@@ -199,6 +227,10 @@
     <a class="vid" target="_blank" rel="noopener" href="https://www.youtube.com/@CanalCongresoColombia/search?query=subsecretario">
       <img src="img/capitolio2.jpg" data-fallback="https://commons.wikimedia.org/wiki/Special:FilePath/El_Capitolio_Nacional_(Bogot%C3%A1,_Colombia)_1.jpg?width=800" alt="">
       <span data-i18n="vid2">Canal Congreso: sesiones y elección de la mesa del Senado</span>
+    </a>
+    <a class="vid" target="_blank" rel="noopener" href="https://www.youtube.com/results?search_query=denuncia+magistrados+JEP+Secci%C3%B3n+de+Apelaci%C3%B3n+sueldo">
+      <img src="img/lluvia.jpg" data-fallback="https://commons.wikimedia.org/wiki/Special:FilePath/Capitolio_Nacional_en_la_lluvia_I.jpg?width=800" alt="">
+      <span data-i18n="vid3">Videos sobre la denuncia contra los magistrados de la JEP</span>
     </a>
   </div>
 </section>

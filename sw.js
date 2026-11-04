@@ -1,5 +1,5 @@
 // Service worker: la app abre sin internet, pero las noticias siempre se piden frescas.
-const CACHE = 'pde-v1';
+const CACHE = 'pde-v2';
 const SHELL = ['./', 'index.html', 'styles.css', 'app.js', 'manifest.webmanifest'];
 
 self.addEventListener('install', e => {
